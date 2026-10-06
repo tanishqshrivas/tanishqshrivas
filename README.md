@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanishq Shrivas</h1>
+<h1 align="center">Hi , I'm Tanishq Shrivas</h1>
 <h3 align="center">  AI Enthusiast |  Cross-Platform Dev</h3>
 
 </p>
@@ -21,15 +21,14 @@
 
 ---
 
-## 🌟 About Me
-- 🔭 Building cross-platform apps with **Flutter & Firebase**
-- 🌱 Learning **AI & Generative Applications**
-- 💬 Ask me about **Flutter, Dart, Firebase**
-- ⚡ Fun fact: Coffee ☕ = Code 🧑‍💻
+##  About Me
+- Building cross-platform apps with **Flutter & Firebase**
+- Learning **AI & Generative Applications**
+- Fun fact: Coffee ☕ = Code 🧑‍💻
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 <p align="left">
   <a href="mailto:shrivastanishq39@gmail.com">
