@@ -22,7 +22,6 @@
 ---
 
 ##  About Me
-- Building cross-platform apps with **Flutter & Firebase**
 - Learning **AI & Generative Applications**
 - Fun fact: Coffee ☕ = Code 🧑‍💻
 
